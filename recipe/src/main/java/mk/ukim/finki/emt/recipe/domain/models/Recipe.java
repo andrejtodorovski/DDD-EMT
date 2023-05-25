@@ -2,8 +2,8 @@ package mk.ukim.finki.emt.recipe.domain.models;
 
 import jakarta.persistence.*;
 import lombok.Getter;
-import mk.finki.ukim.emt.sharedkernel.domain.base.AbstractEntity;
 import mk.ukim.finki.emt.recipe.domain.valueObjects.Instruction;
+import mk.ukim.finki.emt.sharedkernel.domain.base.AbstractEntity;
 
 @Entity
 @Table(name = "recipes")

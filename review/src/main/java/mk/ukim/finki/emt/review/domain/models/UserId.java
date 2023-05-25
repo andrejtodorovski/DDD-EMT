@@ -1,6 +1,7 @@
 package mk.ukim.finki.emt.review.domain.models;
 
-import mk.finki.ukim.emt.sharedkernel.domain.base.DomainObjectId;
+
+import mk.ukim.finki.emt.sharedkernel.domain.base.DomainObjectId;
 
 public class UserId extends DomainObjectId {
     private UserId() {

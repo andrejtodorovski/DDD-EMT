@@ -2,7 +2,7 @@ package mk.ukim.finki.emt.review.domain.models;
 
 import jakarta.persistence.*;
 import lombok.Getter;
-import mk.finki.ukim.emt.sharedkernel.domain.base.AbstractEntity;
+import mk.ukim.finki.emt.sharedkernel.domain.base.AbstractEntity;
 import mk.ukim.finki.emt.review.domain.valueObjects.RecipeId;
 
 import java.time.Instant;

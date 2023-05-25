@@ -1,7 +1,7 @@
 package mk.ukim.finki.emt.review.domain.valueObjects;
 
 import jakarta.persistence.Embeddable;
-import mk.finki.ukim.emt.sharedkernel.domain.base.DomainObjectId;
+import mk.ukim.finki.emt.sharedkernel.domain.base.DomainObjectId;
 
 @Embeddable
 public class RecipeId extends DomainObjectId {
